@@ -10,6 +10,6 @@
 <link rel="stylesheet" href="resources/css/css-style.css">
 </head>
 <body>
-	<c:redirect url="Controller?command=go_to_main_page"/>	
+	<c:redirect url="Controller?command=go_to_main_page"/>	тиаптиав
 </body>
 </html>
